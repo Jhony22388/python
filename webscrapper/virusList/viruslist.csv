@@ -1,0 +1,11 @@
+Threat Name, Threat Type, Date
+ Trojan.Nancrat!g1 ,"Trojan",04/16/2019 
+ Trojan.Danabot!gen2 ,"Trojan",04/16/2019 
+ SONAR.SuspLoad!g13 ,"Trojan,Virus,Worm",04/16/2019 
+ VBS.Rosekernel!g1 ,"Trojan,Worm",04/12/2019 
+ VBS.Rosekernel ,"Trojan,Worm",04/10/2019 
+ Exp.CVE-2019-0859 ,"Trojan",04/10/2019 
+ Exp.CVE-2019-0803 ,"Trojan",04/10/2019 
+ Backdoor.Darkteq ,"Trojan",04/09/2019 
+ Infostealer.Glitchpos ,"Trojan",04/09/2019 
+ W32.Beapy!gen1 ,"Trojan,Worm",04/08/2019 
